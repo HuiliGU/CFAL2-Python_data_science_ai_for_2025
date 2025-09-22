@@ -2,7 +2,7 @@
 
 This repository contains python programming fundamentals, machine learning/deep learning applications with real-world financial dataset and natural language processing in market sentiment analysis.
 
-After going through the following four jupyter notebooks, you will be skilled with **pandas, sklearn, pytorch** and be familiar with **linear regression, random forest, XGBoost, ANN, Transformers and LSTM**.
+After going through the following four jupyter notebooks, you will be skilled with **pandas, sklearn, pytorch** and be familiar with **linear regression, random forest, XGBoost, ANN, RNN and LSTM**.
 
 - Unit 1: Python Programming Fundamentals Review
 - Unit 2: Data Collection, Wrangling and Feature Engineering In Machine Learning
